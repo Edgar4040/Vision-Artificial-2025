@@ -1,5 +1,3 @@
-# Vision-Artificial-2025
-Practicas
 >>> import numpy as np
 >>> import matplotlib.pyplot as plt
 >>>  #                                 0
@@ -8,3 +6,4 @@ Practicas
 >>> #IMREAD_UNCHANGE = -1
 >>> cv2.imshow('image', img)
 >>> cv2.waitKey (0)
+
